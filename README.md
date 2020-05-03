@@ -19,3 +19,7 @@ Innovative design of a system that assists local navigation for blind and visual
 
 Guide users with visual impairments/obstructions while monitoring their environment.
 Dhristi's biggest features including "Can I Cross" and "What Do I See".
+
+## Prototype Model - Haptic Feedback
+
+![Haptic Feedback Control](./PrototypeModel.jpg)
